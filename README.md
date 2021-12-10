@@ -11,8 +11,8 @@
 
 #
 
-- 🔭 I’m currently working on a secret project 🤐 It pertains to Streaming Services 📺
-- 🌱 I’m currently growing my skills daily with C# and Python
+- 🔭 I'm currently working on a secret project 🤐 It pertains to Streaming Services 📺
+- 🌱 Growing my skills in C# and Python daily
 - 📫 How to reach me: 
     - Email: cjohnson74.tech@gmail.com 
     - LinkedIn: www.linkedin.com/in/carson74johnson
