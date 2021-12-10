@@ -11,7 +11,7 @@
 
 #
 
-- 🔭 I’m currently working on a secret project 🤐 It pertains to Streaming Services 📺 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+- 🔭 I’m currently working on a secret project 🤐 It pertains to Streaming Services 📺  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
 - 🌱 I’m currently learning C# and Python.
 - 📫 How to reach me: 
     - Email: cjohnson74.tech@gmail.com 
