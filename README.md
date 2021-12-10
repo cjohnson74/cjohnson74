@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**cjohnson74/cjohnson74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cjohnson74/cjohnson74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -25,4 +25,4 @@ https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visua
 - 📫 How to reach me: Email: cjohnson74.tech@gmail.com ||||| LinkedIn: www.linkedin.com/in/carson74johnson
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Currently taking CALC III and PHY I as prerequisites to get into the University of Florida's CS Program 🐊 
--->
+
