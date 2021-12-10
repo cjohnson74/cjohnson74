@@ -23,7 +23,7 @@
 <img src="{https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white}" />
 
 
-- 🔭 I’m currently working on a secret project 🤐 
+- 🔭 I’m currently working on a secret project 🤐 It pertains to Streaming Services 📺 
 - 🌱 I’m currently learning C# and Python.
 - 📫 How to reach me: Email: cjohnson74.tech@gmail.com | LinkedIn: www.linkedin.com/in/carson74johnson
 - 😄 Pronouns: He/Him/His
