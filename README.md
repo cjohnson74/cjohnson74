@@ -15,5 +15,5 @@
 - 🌱 I’m currently learning C# and Python.
 - 📫 How to reach me: Email: cjohnson74.tech@gmail.com | LinkedIn: www.linkedin.com/in/carson74johnson
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Currently taking Calculus III and Physics I as prerequisites to get into the University of Florida's Computer Science Program 🐊 
+- ⚡ Fun fact: Currently taking Calculus III and Physics I as prerequisites to get into the University of Florida Computer Science Program 🐊 
 
