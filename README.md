@@ -19,5 +19,5 @@
     - Email: cjohnson74.tech@gmail.com 
     - LinkedIn: www.linkedin.com/in/carson74johnson
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Currently taking Calculus III & Physics I as prerequisites to get into the University of Florida Computer Science Program🐊 
+- ⚡ Fun fact: Currently taking Calculus III & Physics I as prerequisites to get into the University of Florida Computer Science Program.🐊 
 
