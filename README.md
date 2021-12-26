@@ -13,7 +13,7 @@
 
 #
 
-- 🔭 I'm currently working on Stream Hub 💬 An application where you can Live Chat while watching your favorite steamed shows 📺
+- 🔭 I'm currently working on Stream Hub 💬 An application where you can Live Chat while watching your favorite steamed shows. 📺
 - 🌱 Growing my skills in C# and Python daily
 - 📫 How to reach me: 
     - Email: cjohnson74.tech@gmail.com 
