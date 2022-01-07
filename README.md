@@ -21,7 +21,7 @@
     - Email: cjohnson74.tech@gmail.com 
     - LinkedIn: www.linkedin.com/in/carson74johnson
     - Website: https://cjohnson74.github.io/Updated-React-Portfolio/
-    - Resume: [Resume Link](https://docs.google.com/document/d/1E2YQ2uNGd2UFxjPqMfkqNUaGdRG7y52YybXxvMdv86g/edit?usp=sharing)
+    - Resume: [Google Docs Resume Link](https://docs.google.com/document/d/1E2YQ2uNGd2UFxjPqMfkqNUaGdRG7y52YybXxvMdv86g/edit?usp=sharing)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Currently taking Calculus III & Physics I as prerequisites to get into the University of Florida Computer Science Program.🐊 
 
