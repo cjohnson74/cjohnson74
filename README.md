@@ -16,7 +16,7 @@
 #
 - University of Central Florida Full-Stack Web Development Bootcamp Alumni 👨🏽‍🎓 
 #
-<a href="https://api.badgr.io/public/assertions/zJFrY9pYT_6REON00hr_RQ?identity__email=carson74johnson%40gmail.com"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/52815609/148991821-5bc659d9-ae45-4462-b755-a654ebe909f6.png"</img></a>
+<a href="https://api.badgr.io/public/assertions/zJFrY9pYT_6REON00hr_RQ?identity__email=carson74johnson%40gmail.com"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/52815609/148991821-5bc659d9-ae45-4462-b755-a654ebe909f6.png"></a>
 - 🔭 I'm currently working on Stream Hub 💬 An application where you can Live Chat while watching your favorite steamed shows. 📺
 - 🌱 Growing my skills in C# and Python daily
 - 📫 How to reach me: 
