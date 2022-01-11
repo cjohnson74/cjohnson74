@@ -18,7 +18,8 @@
 <br/>
 <a href="https://api.badgr.io/public/assertions/zJFrY9pYT_6REON00hr_RQ?identity__email=carson74johnson%40gmail.com">
     <img height="200px" width="200px" src="https://user-images.githubusercontent.com/52815609/148991821-5bc659d9-ae45-4462-b755-a654ebe909f6.png">
-</a> \
+</a>
+    \
     <sub>Click image to verify on Badgr!</sub>
 </p>
 
