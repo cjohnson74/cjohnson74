@@ -11,7 +11,7 @@
 
 #
 
-<sub><p align="center" style="font-size:5px" >*The collection of technologies above is almost everything I have experience in and is in no particular order. This is a good visual, although, it does not encapsulate everything I have worked with and if you are curious if I have worked with a certain technology feel free to contact me via [LinkedIn](https://www.linkedin.com/in/carson74johnson/).*</p></sub>
+<sub><p align="center"><font size="1"> *The collection of technologies above is almost everything I have experience in and is in no particular order. This is a good visual, although, it does not encapsulate everything I have worked with and if you are curious if I have worked with a certain technology feel free to contact me via [LinkedIn](https://www.linkedin.com/in/carson74johnson/).*</p></sub></font>
 
 #
 <p align="center" style="font-size:5px"><sub>University of Central Florida Full-Stack Web Development Bootcamp Alumni 👨🏽‍🎓</sub>
