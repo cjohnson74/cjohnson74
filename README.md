@@ -14,13 +14,13 @@
 <sub><p align="center">*The collection of technologies above is almost everything I have experience in and is in no particular order. This is a good visual, although, it does not encapsulate everything I have worked with and if you are curious if I have worked with a certain technology feel free to contact me via [LinkedIn](https://www.linkedin.com/in/carson74johnson/).*</p></sub>
 
 #
-<sub><p align="center" style="font-size:5px">University of Central Florida Full-Stack Web Development Bootcamp Alumni 👨🏽‍🎓\
+<p align="center" style="font-size:5px">University of Central Florida Full-Stack Web Development Bootcamp Alumni. 👨🏽‍🎓\
 <br/>
 <a href="https://api.badgr.io/public/assertions/zJFrY9pYT_6REON00hr_RQ?identity__email=carson74johnson%40gmail.com">
     <img height="200px" width="200px" src="https://user-images.githubusercontent.com/52815609/148991821-5bc659d9-ae45-4462-b755-a654ebe909f6.png">
 </a> \
-Click image to verify on Badgr!
-</p></sub>
+    <sub>Click image to verify on Badgr!</sub>
+</p>
 
 #
 - 👨🏽‍🎓 Education: Currently taking Calculus III & Physics I as prerequisites at The Santa Fe College Gainesville to get into the University of Florida Computer Science Program Bachelors program 🐊. 
