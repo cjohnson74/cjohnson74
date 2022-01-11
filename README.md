@@ -23,7 +23,7 @@ Click image to verify on Badgr!
 </p></sub>
 
 #
-- 👨🏽‍🎓 Education: Currently taking Calculus III & Physics I as prerequisites at The Santa Fe College Gainesville to get into the University of Florida Computer Science Program 🐊. 
+- 👨🏽‍🎓 Education: Currently taking Calculus III & Physics I as prerequisites at The Santa Fe College Gainesville to get into the University of Florida Computer Science Program Bachelors program 🐊. 
 - 🔭 I'm currently working on Stream Hub 💬 An application where you can Live Chat while watching your favorite steamed shows. 📺
 - 🌱 Growing my skills in C# and Python daily
 - 😄 Pronouns: He/Him/His
