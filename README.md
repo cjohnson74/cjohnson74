@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋🏽  I'm Carson!</h1>
+<h1 align="center">Hi there 👋🏽 I'm Carson!</h1>
 
 <!--
 **cjohnson74/cjohnson74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -35,4 +35,4 @@
     - LinkedIn: www.linkedin.com/in/carson74johnson
     - Website: https://cjohnson74.github.io/Updated-React-Portfolio/
     - Resume: [Google Docs Resume Link](https://docs.google.com/document/d/1E2YQ2uNGd2UFxjPqMfkqNUaGdRG7y52YybXxvMdv86g/edit?usp=sharing)
-- 👋🏽   About: Full-stack Software Engineering professional with newly acquired skills from the University of Central Florida full-stack boot camp. Experienced in JavaScript, HTML, CSS, JQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, and React.js. Able to grasp new concepts quickly and implement them immediately to solve problems effectively. Ready to take on any challenge and do whatever it takes; to effectively solve big picture problems. Great leadership abilities and can bring the best out of their team. Also equipped with an eagerness to listen, learn and follow the direction of a project manager to fit any role a team needs.
+- 👋🏽 About: Full-stack Software Engineering professional with newly acquired skills from the University of Central Florida full-stack boot camp. Experienced in JavaScript, HTML, CSS, JQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, and React.js. Able to grasp new concepts quickly and implement them immediately to solve problems effectively. Ready to take on any challenge and do whatever it takes; to effectively solve big picture problems. Great leadership abilities and can bring the best out of their team. Also equipped with an eagerness to listen, learn and follow the direction of a project manager to fit any role a team needs.
