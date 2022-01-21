@@ -22,7 +22,7 @@
     <img height="200px" width="200px" src="https://user-images.githubusercontent.com/52815609/148991821-5bc659d9-ae45-4462-b755-a654ebe909f6.png">
 </a>
     <br/>
-    <sub>Click above image to verify on Badgr! 👍🏽</sub>
+    <p>Click above image to verify on Badgr! 👍🏽</p>
 </p>
 
 #
