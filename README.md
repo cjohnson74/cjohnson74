@@ -29,8 +29,8 @@
 </p>
 
 #
-- 👨🏽‍🎓 Education: Currently taking Calculus III & Physics I as prerequisites at the Santa Fe College in Gainesville to get into the University of Florida Computer Science Bachelors program 🐊. 
-- 🔭 I'm currently working on Stream Hub 💬 An application where you can Live Chat while watching your favorite steamed shows. 📺
+- 👨🏽‍🎓 Education: Junior Computer Science Major @ University of Florida | Pursuing a BS and AI certificate 🐊. 
+- 🔭 Incoming Summer 2023 Software Engineering Intern @ Salesforce 👨🏾‍💻
 - 🌱 Growing my skills in C#, .NET, and Python daily.
 - 😄 Pronouns: He / Him / His
 - 📫 How to reach me: 
