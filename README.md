@@ -31,7 +31,7 @@
 #
 - 👨🏽‍🎓 Education: Junior Computer Science Major @ University of Florida | Pursuing a BS and AI certificate 🐊. 
 - 🔭 Incoming Summer 2023 Software Engineering Intern @ Salesforce 👨🏾‍💻
-- 🌱 Growing my skills in Docker, Kubernetes, and Python.
+- 🌱 Growing my skills in Docker 🐳, Kubernetes 🏗️, and Python 🐍 
 - 😄 Pronouns: He / Him / His
 - 📫 How to reach me: 
     - Email: cjohnson74.tech@gmail.com 
